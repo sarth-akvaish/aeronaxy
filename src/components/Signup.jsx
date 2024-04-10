@@ -36,7 +36,7 @@ const Signup = () => {
             </div>
             <div className='flex flex-col p-6 w-[68%] h-full'>
                 <div className='flex items-end justify-end'>
-                    Already a member? Sign in
+                    Already a member? <span className='text-pink-500'>Sign in</span>
                 </div>
                 <div className='flex items-center justify-center'>
                     <div className='flex flex-col p-4 gap-8 justify-start w-[60%]'>
